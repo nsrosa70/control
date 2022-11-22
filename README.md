@@ -1,2 +1,2 @@
 # control
-Raw data oe each individual experiment can be 
+A summary of all data can be found at data-acmsac.xlsx. Data 
